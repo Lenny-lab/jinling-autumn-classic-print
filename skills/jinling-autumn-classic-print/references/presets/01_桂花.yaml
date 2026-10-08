@@ -1,0 +1,14 @@
+name: 桂花
+core_word: 香
+identity_anchors:
+  - 四瓣小型桂花
+  - 深色椭圆叶
+  - 小而密的花簇
+autumn_signal: 桂花花期与少量飘落花点
+accent:
+  name: 蜜金黄
+  hex: "#E4B253"
+composition: 枝条斜向伸入，花簇集中于1-2个视觉中心，大面积冷色留白
+avoid:
+  - 画成梅花或樱花
+  - 满屏黄色

@@ -1,0 +1,4 @@
+interface:
+  display_name: "金陵秋日 · 古典版画"
+  short_description: "依据南京秋景实拍，独立重绘插画并合成真实字体的冷调版画系列设计"
+  default_prompt: "使用 $jinling-autumn-classic-print，依据我提供的南京秋景实拍制作统一的古典版画设计，并交付可编辑 SVG 与高清 PNG。"

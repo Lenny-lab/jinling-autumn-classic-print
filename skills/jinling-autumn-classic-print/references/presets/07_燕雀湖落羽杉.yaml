@@ -1,0 +1,16 @@
+name: 燕雀湖落羽杉
+core_word: 染
+identity_anchors:
+  - 临水落羽杉
+  - 细羽状枝叶
+  - 湖面倒影
+  - 湖岸连续树群
+autumn_signal: 锈橙、焦糖、棕红变色
+accent:
+  name: 杉叶锈橙
+  hex: "#B85C3A"
+composition: 水平湖面与垂直树群形成对照，倒影占据重要面积
+avoid:
+  - 加宏大建筑
+  - 水面过度镜面化
+  - 画成普通枫树林

@@ -1,0 +1,107 @@
+{
+  "name": "06_颐和路秋影",
+  "canvas": [
+    6144,
+    4096
+  ],
+  "fonts": {
+    "title": "Noto Serif SC",
+    "body": "Noto Sans SC"
+  },
+  "content": {
+    "id": "06",
+    "slug": "yihe",
+    "title": "颐和路秋影",
+    "word": "街",
+    "subtitle": "老墙梧影，窗边秋光，城事安静。",
+    "positioning": [
+      "暖黄墙面，接住梧桐落下的影子。",
+      "老窗与灰瓦保留街区的尺度，",
+      "秋天在光与影之间慢慢经过。"
+    ],
+    "accent": [
+      "墙体黄",
+      "#E8C05A"
+    ],
+    "aux": [
+      "瓦灰",
+      "#78858A"
+    ],
+    "details": [
+      {
+        "title": "灰瓦构件",
+        "caption": "弧形瓦口，陶质磨损。",
+        "source": "elements/panel-detail-1.png"
+      },
+      {
+        "title": "老宅窗框",
+        "caption": "深色窗格，克制历史细节。",
+        "source": "elements/panel-detail-2.png"
+      },
+      {
+        "title": "梧桐秋叶",
+        "caption": "黄褐枝叶，映出季节。",
+        "source": "elements/panel-detail-3.png"
+      },
+      {
+        "title": "墙上光影",
+        "caption": "疏落叶影，让墙面呼吸。",
+        "source": "elements/panel-detail-4.png"
+      }
+    ],
+    "notes": [
+      [
+        "黄墙 · 老窗 · 梧影",
+        "民国街区 · 安静"
+      ],
+      [
+        "墙面作为主要色块",
+        "窗格与枝影提供节奏"
+      ],
+      [
+        "暖黄墙体对照靛蓝影",
+        "灰瓦压住整体饱和度"
+      ],
+      [
+        "墙面保留细砂与缺墨",
+        "阴影边缘适度破碎"
+      ],
+      [
+        "不以红砖替代黄墙",
+        "不画成宫殿或商业街"
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "paper-texture-image",
+      "file": "elements/paper-texture-image.png",
+      "sha256": "d1e8226c24c32018650cbd12d0e5a6489db4ae262f74e94256f09bed86c597b2"
+    },
+    {
+      "id": "panel-main",
+      "file": "elements/panel-main.png",
+      "sha256": "d56e8e0ba2416442d894d8ab3a05b2747c6da9a0356534bd69019b793f72428a"
+    },
+    {
+      "id": "panel-detail-1",
+      "file": "elements/panel-detail-1.png",
+      "sha256": "a2016d4c8f32bdeb16fc3505247718e1b282f8066b0ff82099b90a786d333a0a"
+    },
+    {
+      "id": "panel-detail-2",
+      "file": "elements/panel-detail-2.png",
+      "sha256": "3a4db6e500b53f90bbd20bd898fb7d4a507e7f6e36759b70affb34560f949fcb"
+    },
+    {
+      "id": "panel-detail-3",
+      "file": "elements/panel-detail-3.png",
+      "sha256": "33831326e0c3c2972fbb453aa6c520123ab722f2690a3cc9f5b64004d4aac8ee"
+    },
+    {
+      "id": "panel-detail-4",
+      "file": "elements/panel-detail-4.png",
+      "sha256": "988932270896e8cbe669ef500eaaba591a9f53de93fbbd95deed1230e7fabf54"
+    }
+  ]
+}

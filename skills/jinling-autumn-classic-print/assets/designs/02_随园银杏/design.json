@@ -1,0 +1,107 @@
+{
+  "name": "02_随园银杏",
+  "canvas": [
+    6144,
+    4096
+  ],
+  "fonts": {
+    "title": "Noto Serif SC",
+    "body": "Noto Sans SC"
+  },
+  "content": {
+    "id": "02",
+    "slug": "ginkgo",
+    "title": "随园银杏",
+    "word": "老",
+    "subtitle": "银杏覆檐，金叶映窗，秋意入园。",
+    "positioning": [
+      "以随园百年银杏的树干与金叶为主角，",
+      "让校园廊檐退入冷灰背景。",
+      "一棵树的年轮，接住校园的秋天。"
+    ],
+    "accent": [
+      "银杏金",
+      "#E0B236"
+    ],
+    "aux": [
+      "廊柱赭",
+      "#9A6859"
+    ],
+    "details": [
+      {
+        "title": "扇叶与叶脉",
+        "caption": "扇形裂口，叶脉放射。",
+        "source": "elements/panel-detail-1.png"
+      },
+      {
+        "title": "老树肌理",
+        "caption": "粗干深纹，时间留痕。",
+        "source": "elements/panel-detail-2.png"
+      },
+      {
+        "title": "校园廊檐",
+        "caption": "灰瓦红柱，建筑退后。",
+        "source": "elements/panel-detail-3.png"
+      },
+      {
+        "title": "灰瓦廊顶",
+        "caption": "灰瓦低檐，映衬高处金叶。",
+        "source": "elements/panel-detail-4.png"
+      }
+    ],
+    "notes": [
+      [
+        "百年银杏 · 校园",
+        "树影 · 历史感"
+      ],
+      [
+        "老树干承担视觉重量",
+        "校园建筑作为背景"
+      ],
+      [
+        "金叶呼应少量柱赭",
+        "冷灰收束整体暖色"
+      ],
+      [
+        "树皮用刻痕显岁月",
+        "金叶用套印显轻盈"
+      ],
+      [
+        "不把校园替换成寺庙",
+        "不以泛化宫殿抢主体"
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "paper-texture-image",
+      "file": "elements/paper-texture-image.png",
+      "sha256": "d1e8226c24c32018650cbd12d0e5a6489db4ae262f74e94256f09bed86c597b2"
+    },
+    {
+      "id": "panel-main",
+      "file": "elements/panel-main.png",
+      "sha256": "94b81757e43bd47be449e4fc09f0576ecdeb933351b31e4456e6ea226273b6c1"
+    },
+    {
+      "id": "panel-detail-1",
+      "file": "elements/panel-detail-1.png",
+      "sha256": "cc72552dfe553a4bb5b0dd04907f786681096a778b2cc67cbb939a5f66117f7b"
+    },
+    {
+      "id": "panel-detail-2",
+      "file": "elements/panel-detail-2.png",
+      "sha256": "0491026ccdceb1406560998634b785ac6cba8b48ffcd9d5dce6e90be6af0b351"
+    },
+    {
+      "id": "panel-detail-3",
+      "file": "elements/panel-detail-3.png",
+      "sha256": "013ba9a49e957e0890f515e5a92a1e17ccf5333a7657cfcb188e08b1c4a4f80d"
+    },
+    {
+      "id": "panel-detail-4",
+      "file": "elements/panel-detail-4.png",
+      "sha256": "b5e191bf7f6f611ed2f649dba2f1750a9c64dcf384b9e53be95272c75ce0fc82"
+    }
+  ]
+}

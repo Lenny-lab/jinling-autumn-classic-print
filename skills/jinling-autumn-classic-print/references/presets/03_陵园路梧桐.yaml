@@ -1,0 +1,15 @@
+name: 陵园路梧桐
+core_word: 城
+identity_anchors:
+  - 高大悬铃木形成道路拱廊
+  - 斑驳树干
+  - 道路纵深
+  - 黄褐落叶
+autumn_signal: 金叶、枯叶、落叶铺路
+accent:
+  name: 梧桐黄褐
+  hex: "#C8903D"
+composition: 强透视林荫大道，形成金色隧道感，但保持低饱和
+avoid:
+  - 把梧桐叶画成红枫
+  - 过度旅游明信片化

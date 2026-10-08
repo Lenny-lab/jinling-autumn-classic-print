@@ -1,0 +1,107 @@
+{
+  "name": "05_石象路秋色",
+  "canvas": [
+    6144,
+    4096
+  ],
+  "fonts": {
+    "title": "Noto Serif SC",
+    "body": "Noto Sans SC"
+  },
+  "content": {
+    "id": "05",
+    "slug": "elephant",
+    "title": "石象路秋色",
+    "word": "古",
+    "subtitle": "石兽静立，彩叶渐染，古意入秋。",
+    "positioning": [
+      "成对石象静立在神道两侧，",
+      "让克制的秋叶与石灰形成冷暖对照。",
+      "路向远处延伸，时光留在石上。"
+    ],
+    "accent": [
+      "秋叶橙",
+      "#C8643F"
+    ],
+    "aux": [
+      "石灰",
+      "#A8ACA7"
+    ],
+    "details": [
+      {
+        "title": "石象形制",
+        "caption": "完整轮廓，石象静立于秋林。",
+        "source": "elements/panel-detail-1.png"
+      },
+      {
+        "title": "石面微观",
+        "caption": "孔隙与蚀痕，局部材质研究。",
+        "source": "elements/panel-detail-2.png"
+      },
+      {
+        "title": "彩叶层叠",
+        "caption": "橙红与金叶局部相映。",
+        "source": "elements/panel-detail-3.png"
+      },
+      {
+        "title": "神道空间",
+        "caption": "居中石道，绿篱引向远处。",
+        "source": "elements/panel-detail-4.png"
+      }
+    ],
+    "notes": [
+      [
+        "石兽 · 神道 · 秋叶",
+        "沉静 · 古意 · 时间"
+      ],
+      [
+        "成对石象稳住两侧",
+        "中央石道建立纵深"
+      ],
+      [
+        "石灰靛青承担主体",
+        "低饱和秋叶局部映衬"
+      ],
+      [
+        "石面以斑驳印痕表达",
+        "不追求摄影般细碎"
+      ],
+      [
+        "不将石兽拟人卡通化",
+        "不加入无关亭台水榭"
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "paper-texture-image",
+      "file": "elements/paper-texture-image.png",
+      "sha256": "d1e8226c24c32018650cbd12d0e5a6489db4ae262f74e94256f09bed86c597b2"
+    },
+    {
+      "id": "panel-main",
+      "file": "elements/panel-main.png",
+      "sha256": "ce113cd3a5a4fb65c0a86fe484a3ef3a5c0422828642385bcfa31a5a3325e0c2"
+    },
+    {
+      "id": "panel-detail-1",
+      "file": "elements/panel-detail-1.png",
+      "sha256": "2f03e9e4ceeec00ac2d7949179cca4c211df4bab1697c9dec4fd671d7fd3f101"
+    },
+    {
+      "id": "panel-detail-2",
+      "file": "elements/panel-detail-2.png",
+      "sha256": "0477b307bec17076eb43ac990b306e0f2f00dd171b298a1df5af7d279b511cc3"
+    },
+    {
+      "id": "panel-detail-3",
+      "file": "elements/panel-detail-3.png",
+      "sha256": "abae83b7fb44c3b60876642849c46a7fb45d3e8f5d61ad8266c069f060d29da3"
+    },
+    {
+      "id": "panel-detail-4",
+      "file": "elements/panel-detail-4.png",
+      "sha256": "cdac573ef8ad3ce5bb53d5b1831e680d6857004056889f34ebd01433cf0515f4"
+    }
+  ]
+}

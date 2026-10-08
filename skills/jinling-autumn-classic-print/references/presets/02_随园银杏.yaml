@@ -1,0 +1,16 @@
+name: 随园百年银杏
+core_word: 老
+identity_anchors:
+  - 百年老银杏粗壮树干
+  - 扇形银杏叶
+  - 随园校区真实建筑关系
+  - 按实拍保留树冠与廊檐关系，不强加未出现的地面
+autumn_signal: 枝冠金叶与冷灰廊檐
+accent:
+  name: 银杏金
+  hex: "#E0B236"
+composition: 以老树干作为视觉重量，建筑退居背景，不可用泛化寺庙替代
+avoid:
+  - 宫殿化
+  - 寺庙化
+  - 错误校园建筑

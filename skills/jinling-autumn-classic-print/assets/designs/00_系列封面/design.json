@@ -1,0 +1,71 @@
+{
+  "name": "00_系列封面",
+  "canvas": [
+    6144,
+    4096
+  ],
+  "fonts": {
+    "title": "Noto Serif SC",
+    "body": "Noto Sans SC"
+  },
+  "content": {
+    "title": "秋天的金陵城 可能会是什么样子的",
+    "titleLines": [
+      "秋天的金陵城",
+      "可能会是什么样子的"
+    ]
+  },
+  "images": [
+    {
+      "id": "paper-texture-image",
+      "file": "elements/paper-texture-image.png",
+      "sha256": "d1e8226c24c32018650cbd12d0e5a6489db4ae262f74e94256f09bed86c597b2"
+    },
+    {
+      "id": "cover-image",
+      "file": "elements/cover-xuanwu-wide.png",
+      "sha256": "305f7edee6bb52bb5d76ffe4f9cc4340e45109c913c6051386c00c0b10a6a7ed",
+      "frame": {
+        "x": 852,
+        "y": 82,
+        "width": 642,
+        "height": 385
+      }
+    },
+    {
+      "id": "cover-motif-osmanthus",
+      "file": "elements/cover-image.png",
+      "sha256": "24f886e304ff1a5be0e1475a1bfefe7aee8309f67ae7eb8bc7ffc38c9221ef55"
+    },
+    {
+      "id": "cover-motif-ginkgo",
+      "file": "elements/cover-motif-ginkgo.png",
+      "sha256": "94b81757e43bd47be449e4fc09f0576ecdeb933351b31e4456e6ea226273b6c1"
+    },
+    {
+      "id": "cover-motif-plane",
+      "file": "elements/cover-motif-plane.png",
+      "sha256": "13dd2b6ceeb7dcf9ee0984c0c063fac790c3ccb5072fe4d7d400b0b0c3c7b58d"
+    },
+    {
+      "id": "cover-motif-maple",
+      "file": "elements/cover-motif-maple.png",
+      "sha256": "03c2754096cf31947dddd954a8ba59f3cab0ae958d200c9f095cf18693f2d9b7"
+    },
+    {
+      "id": "cover-motif-elephant",
+      "file": "elements/cover-motif-elephant.png",
+      "sha256": "ce113cd3a5a4fb65c0a86fe484a3ef3a5c0422828642385bcfa31a5a3325e0c2"
+    },
+    {
+      "id": "cover-motif-yihe",
+      "file": "elements/cover-motif-yihe.png",
+      "sha256": "d56e8e0ba2416442d894d8ab3a05b2747c6da9a0356534bd69019b793f72428a"
+    },
+    {
+      "id": "cover-motif-cypress",
+      "file": "elements/cover-motif-cypress.png",
+      "sha256": "668943c448d4c048f2b54bcf93ba1704ee987caf1e8be86482f94bd9236e8205"
+    }
+  ]
+}

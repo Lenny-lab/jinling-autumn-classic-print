@@ -1,0 +1,107 @@
+{
+  "name": "04_栖霞山红枫",
+  "canvas": [
+    6144,
+    4096
+  ],
+  "fonts": {
+    "title": "Noto Serif SC",
+    "body": "Noto Sans SC"
+  },
+  "content": {
+    "id": "04",
+    "slug": "maple",
+    "title": "栖霞山红枫",
+    "word": "山",
+    "subtitle": "枫红映门，檐角含秋，栖霞入画。",
+    "positioning": [
+      "以栖霞山实拍门头为画面核心，",
+      "红枫环绕灰瓦与赭色柱梁，",
+      "在檐角之间，留住清凉秋意。"
+    ],
+    "accent": [
+      "枫红",
+      "#B64B39"
+    ],
+    "aux": [
+      "深锈红",
+      "#8E4038"
+    ],
+    "details": [
+      {
+        "title": "枫叶形态",
+        "caption": "掌状深裂，叶缘细锯齿。",
+        "source": "elements/panel-detail-1.png"
+      },
+      {
+        "title": "枝条走向",
+        "caption": "折枝引势，疏密成韵。",
+        "source": "elements/panel-detail-2.png"
+      },
+      {
+        "title": "层檐与门头",
+        "caption": "层叠灰瓦，檐角轻扬。",
+        "source": "elements/panel-detail-3.png"
+      },
+      {
+        "title": "柱梁与秋色",
+        "caption": "赭柱金饰，红枫相映。",
+        "source": "elements/panel-detail-4.png"
+      }
+    ],
+    "notes": [
+      [
+        "栖霞门头 · 红枫",
+        "层檐 · 清冷空气"
+      ],
+      [
+        "门头建立视觉重心",
+        "枫枝环绕而不遮檐"
+      ],
+      [
+        "朱红锈红互相穿插",
+        "靛灰瓦面平衡暖色"
+      ],
+      [
+        "叶脉保留雕刻线感",
+        "柱梁采用干涩套印"
+      ],
+      [
+        "不用层叠山峰替代门头",
+        "不虚构古寺与牌匾字"
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "paper-texture-image",
+      "file": "elements/paper-texture-image.png",
+      "sha256": "d1e8226c24c32018650cbd12d0e5a6489db4ae262f74e94256f09bed86c597b2"
+    },
+    {
+      "id": "panel-main",
+      "file": "elements/panel-main.png",
+      "sha256": "03c2754096cf31947dddd954a8ba59f3cab0ae958d200c9f095cf18693f2d9b7"
+    },
+    {
+      "id": "panel-detail-1",
+      "file": "elements/panel-detail-1.png",
+      "sha256": "5122e70710dda2e2a69bab13cc93d1c2f96c44ef1388a770cc8ae7b0b40bc7e4"
+    },
+    {
+      "id": "panel-detail-2",
+      "file": "elements/panel-detail-2.png",
+      "sha256": "1fd7254d1db2cf9f1ec2420f234601fa30e28b198aec8bc2ade97dc6bbd33872"
+    },
+    {
+      "id": "panel-detail-3",
+      "file": "elements/panel-detail-3.png",
+      "sha256": "ef23a15ca554c5f0a0da662d0739128ffd7981d22c0aeabac6a7984603485ce9"
+    },
+    {
+      "id": "panel-detail-4",
+      "file": "elements/panel-detail-4.png",
+      "sha256": "050bccc630bcaf6b3b37cc845c05e6d1aee1d2c6f2f62912534380562be1f6b8"
+    }
+  ]
+}

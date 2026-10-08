@@ -1,0 +1,107 @@
+{
+  "name": "07_燕雀湖落羽杉",
+  "canvas": [
+    6144,
+    4096
+  ],
+  "fonts": {
+    "title": "Noto Serif SC",
+    "body": "Noto Sans SC"
+  },
+  "content": {
+    "id": "07",
+    "slug": "cypress",
+    "title": "燕雀湖落羽杉",
+    "word": "染",
+    "subtitle": "杉色映水，深秋如画，湖面渐红。",
+    "positioning": [
+      "落羽杉沿湖岸渐次染上焦糖色，",
+      "细羽枝叶把秋意带向水面。",
+      "倒影断在涟漪里，冷暖相融而安静。"
+    ],
+    "accent": [
+      "杉叶锈",
+      "#B85C3A"
+    ],
+    "aux": [
+      "焦糖棕",
+      "#93684F"
+    ],
+    "details": [
+      {
+        "title": "杉林秋色",
+        "caption": "锈橙焦糖，层次渐染。",
+        "source": "elements/panel-detail-1.png"
+      },
+      {
+        "title": "羽状小枝",
+        "caption": "线形小叶，细羽状排列。",
+        "source": "elements/panel-detail-2.png"
+      },
+      {
+        "title": "湖面倒影",
+        "caption": "横向碎影，微波留白。",
+        "source": "elements/panel-detail-3.png"
+      },
+      {
+        "title": "湖岸与远景",
+        "caption": "岸线转折，树林渐远。",
+        "source": "elements/panel-detail-4.png"
+      }
+    ],
+    "notes": [
+      [
+        "落羽杉 · 湖面 · 倒影",
+        "焦糖秋色 · 清冷"
+      ],
+      [
+        "垂直树群对照水平水面",
+        "湖岸曲线引出远近"
+      ],
+      [
+        "锈橙棕红保留变化",
+        "冷灰湖面平衡暖色"
+      ],
+      [
+        "枝叶细密但不糊成团",
+        "倒影用断续印痕表达"
+      ],
+      [
+        "不把落羽杉画成枫林",
+        "不加宏大建筑与镜面水"
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "paper-texture-image",
+      "file": "elements/paper-texture-image.png",
+      "sha256": "d1e8226c24c32018650cbd12d0e5a6489db4ae262f74e94256f09bed86c597b2"
+    },
+    {
+      "id": "panel-main",
+      "file": "elements/panel-main.png",
+      "sha256": "668943c448d4c048f2b54bcf93ba1704ee987caf1e8be86482f94bd9236e8205"
+    },
+    {
+      "id": "panel-detail-1",
+      "file": "elements/panel-detail-1.png",
+      "sha256": "b0f7be440633fc5e69759a5d2df543cea1d39b99212362ddd0106d75931949ae"
+    },
+    {
+      "id": "panel-detail-2",
+      "file": "elements/panel-detail-2.png",
+      "sha256": "abd37f4f4281aeec998bfe834893248241c5d5e00cd0d92351adc91d6da5ece2"
+    },
+    {
+      "id": "panel-detail-3",
+      "file": "elements/panel-detail-3.png",
+      "sha256": "70500160966aaa8a5f0e371586e80a16a1b83ebcaa206a7f54ed9c1d7a211fe0"
+    },
+    {
+      "id": "panel-detail-4",
+      "file": "elements/panel-detail-4.png",
+      "sha256": "96d5ecdaa0627a07267bf83bf95eab69545239f3296f48772a63ecb61283eed0"
+    }
+  ]
+}

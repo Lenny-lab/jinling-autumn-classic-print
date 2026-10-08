@@ -1,0 +1,15 @@
+name: 栖霞山红枫
+core_word: 山
+identity_anchors:
+  - 用户实拍门头的多层檐与柱梁
+  - 牌匾及三门通道关系
+  - 红枫环绕门头
+autumn_signal: 深秋红叶
+accent:
+  name: 枫红
+  hex: "#B64B39"
+composition: 实拍门头为主体，红枫围合，不用层峦远山替代
+avoid:
+  - 纯红无层次
+  - 假古建成为主体
+  - 用层叠山峰替代指定门头

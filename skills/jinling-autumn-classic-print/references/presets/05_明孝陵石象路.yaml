@@ -1,0 +1,15 @@
+name: 明孝陵石象路
+core_word: 古
+identity_anchors:
+  - 神道石兽
+  - 灰色石质与岁月肌理
+  - 两侧秋树
+  - 道路空间关系
+autumn_signal: 金叶与橙红彩叶
+accent:
+  name: 秋叶橙红
+  hex: "#C8643F"
+composition: 石兽具有重量感，秋叶负责包围与对比，不把石兽卡通化
+avoid:
+  - 加无关亭台
+  - 石兽拟人化

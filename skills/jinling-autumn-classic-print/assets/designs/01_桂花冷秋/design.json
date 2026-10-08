@@ -1,0 +1,107 @@
+{
+  "name": "01_桂花冷秋",
+  "canvas": [
+    6144,
+    4096
+  ],
+  "fonts": {
+    "title": "Noto Serif SC",
+    "body": "Noto Sans SC"
+  },
+  "content": {
+    "id": "01",
+    "slug": "osmanthus",
+    "title": "桂花冷秋",
+    "word": "香",
+    "subtitle": "冷风起，桂影疏，纸上留香。",
+    "positioning": [
+      "把南京秋天的第一缕桂香，",
+      "印在一页微凉的旧纸上。",
+      "靛蓝叶影之间，蜜金小花轻轻点亮。"
+    ],
+    "accent": [
+      "蜜金",
+      "#E4B253"
+    ],
+    "aux": [
+      "灰绿",
+      "#6E7F77"
+    ],
+    "details": [
+      {
+        "title": "四瓣桂花",
+        "caption": "单丛近观，花瓣与花梗清晰。",
+        "source": "elements/panel-detail-1.png"
+      },
+      {
+        "title": "叶脉微观",
+        "caption": "单叶放大，细看网状叶脉。",
+        "source": "elements/panel-detail-2.png"
+      },
+      {
+        "title": "枝节与树皮",
+        "caption": "枝条分叉，节痕与木质刻纹。",
+        "source": "elements/panel-detail-3.png"
+      },
+      {
+        "title": "疏密与留白",
+        "caption": "枝条斜入，花点轻落。",
+        "source": "elements/panel-detail-4.png"
+      }
+    ],
+    "notes": [
+      [
+        "冷空气 · 桂花香",
+        "旧纸 · 古典套印"
+      ],
+      [
+        "斜枝组织视觉重心",
+        "疏朗留白，花点轻落"
+      ],
+      [
+        "靛蓝承担主要深色",
+        "蜜金小面积点染"
+      ],
+      [
+        "细纸纹与干涩边缘",
+        "颗粒服从植物形态"
+      ],
+      [
+        "不画成樱花或梅花",
+        "不堆古建，不铺满黄"
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "paper-texture-image",
+      "file": "elements/paper-texture-image.png",
+      "sha256": "d1e8226c24c32018650cbd12d0e5a6489db4ae262f74e94256f09bed86c597b2"
+    },
+    {
+      "id": "panel-main",
+      "file": "elements/panel-main.png",
+      "sha256": "24f886e304ff1a5be0e1475a1bfefe7aee8309f67ae7eb8bc7ffc38c9221ef55"
+    },
+    {
+      "id": "panel-detail-1",
+      "file": "elements/panel-detail-1.png",
+      "sha256": "d33922a08cc81c4478ca2c4ef1e0c514af746fa598431060d11e10ed101dfb74"
+    },
+    {
+      "id": "panel-detail-2",
+      "file": "elements/panel-detail-2.png",
+      "sha256": "7d4857b4819820e7f26d5051385b8d5dece05e51ae7f51e4b5215688d55da71d"
+    },
+    {
+      "id": "panel-detail-3",
+      "file": "elements/panel-detail-3.png",
+      "sha256": "253f3c65244552d81586a227cf3203ca1de788054007b494257379562eb39dca"
+    },
+    {
+      "id": "panel-detail-4",
+      "file": "elements/panel-detail-4.png",
+      "sha256": "a91b83ed80ed631d9ed1f7d9bf8280e3a22cb6f84f79b774382d9dec311287f5"
+    }
+  ]
+}

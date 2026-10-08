@@ -1,0 +1,1 @@
+{"name":"jinling-autumn-classic-print","version":"2.0.0","private":true,"description":"Local SVG composition and lossless export of Jinling autumn examples","engines":{"node":">=20"},"scripts":{"build":"node scripts/export.cjs","verify":"node scripts/verify.cjs"},"dependencies":{"sharp":"0.35.4"}}

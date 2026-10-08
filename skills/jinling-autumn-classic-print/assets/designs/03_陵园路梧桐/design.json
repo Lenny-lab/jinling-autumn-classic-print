@@ -1,0 +1,107 @@
+{
+  "name": "03_陵园路梧桐",
+  "canvas": [
+    6144,
+    4096
+  ],
+  "fonts": {
+    "title": "Noto Serif SC",
+    "body": "Noto Sans SC"
+  },
+  "content": {
+    "id": "03",
+    "slug": "plane",
+    "title": "陵园路梧桐",
+    "word": "城",
+    "subtitle": "梧桐成廊，城秋渐深，落叶如河。",
+    "positioning": [
+      "高大的悬铃木沿道路向远处展开，",
+      "斑驳树干与秋叶围出一道光。",
+      "让南京的秋天，有可以走进去的纵深。"
+    ],
+    "accent": [
+      "梧桐褐",
+      "#C8903D"
+    ],
+    "aux": [
+      "树皮灰",
+      "#A6ADA6"
+    ],
+    "details": [
+      {
+        "title": "秋叶与枝冠",
+        "caption": "黄褐掌状叶，枝冠相接。",
+        "source": "elements/panel-detail-1.png"
+      },
+      {
+        "title": "斑驳树干",
+        "caption": "剥落树皮，冷暖交错。",
+        "source": "elements/panel-detail-2.png"
+      },
+      {
+        "title": "道路纵深",
+        "caption": "透视收束，远处留光。",
+        "source": "elements/panel-detail-3.png"
+      },
+      {
+        "title": "落叶与路面",
+        "caption": "稀疏落叶，铺陈秋意。",
+        "source": "elements/panel-detail-4.png"
+      }
+    ],
+    "notes": [
+      [
+        "悬铃木 · 林荫廊",
+        "透视 · 秋日城市"
+      ],
+      [
+        "道路引导视线向远处",
+        "树干组织两侧节奏"
+      ],
+      [
+        "黄褐叶色与雾蓝相对",
+        "避免满幅浓烈金黄"
+      ],
+      [
+        "树皮保留斑驳刻痕",
+        "远处着墨更轻更淡"
+      ],
+      [
+        "不把悬铃木画成红枫",
+        "不加入人群车辆招牌"
+      ]
+    ]
+  },
+  "images": [
+    {
+      "id": "paper-texture-image",
+      "file": "elements/paper-texture-image.png",
+      "sha256": "d1e8226c24c32018650cbd12d0e5a6489db4ae262f74e94256f09bed86c597b2"
+    },
+    {
+      "id": "panel-main",
+      "file": "elements/panel-main.png",
+      "sha256": "13dd2b6ceeb7dcf9ee0984c0c063fac790c3ccb5072fe4d7d400b0b0c3c7b58d"
+    },
+    {
+      "id": "panel-detail-1",
+      "file": "elements/panel-detail-1.png",
+      "sha256": "961bd45b831500b2d4ac5fd23ba53482bb8e07a9783a3fed8689da48bf3170f4"
+    },
+    {
+      "id": "panel-detail-2",
+      "file": "elements/panel-detail-2.png",
+      "sha256": "7fdf9cc07c725171abdd9fdd12401733b4614fc2b67c90e0645907bfaa9238be"
+    },
+    {
+      "id": "panel-detail-3",
+      "file": "elements/panel-detail-3.png",
+      "sha256": "1bbb723d9bfa3dee138515df381b2190c053892095a554f5ce7f0a0b2ef59d0d"
+    },
+    {
+      "id": "panel-detail-4",
+      "file": "elements/panel-detail-4.png",
+      "sha256": "20e30177710b283e79afeeacc2ff869e29c28ab7d370c00bc992afb50cd44a95"
+    }
+  ]
+}

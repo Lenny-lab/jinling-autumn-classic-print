@@ -1,0 +1,16 @@
+name: 颐和路秋影
+core_word: 街
+identity_anchors:
+  - 黄色墙体或黄色外墙
+  - 老宅窗框
+  - 梧桐枝叶与墙面光影
+  - 民国街区尺度
+autumn_signal: 梧桐黄叶与秋日斜光
+accent:
+  name: 墙体暖黄
+  hex: "#E8C05A"
+composition: 黄墙必须形成主要色块，窗与梧桐影提供节奏
+avoid:
+  - 红砖墙成为主视觉
+  - 欧式红砖楼替代真实街区
+  - 现代商业街感
