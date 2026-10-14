@@ -1,0 +1,5 @@
+case_id,scene,condition,reference_id,skill_version,tool_model,generated_at,candidate_count,selection_rule,status,public_asset,notes
+JL-E01,随园银杏,A,REF-SY-01,2.0.1,待执行,,1,保留首个完整输出,planned,,不得使用人工择优
+JL-E02,随园银杏,B,REF-SY-01,2.0.1,待执行,,1,保留首个完整输出,planned,,与A相同画幅和生成预算
+JL-E03,随园银杏,C,REF-SY-01,2.0.1,待执行,,1,保留首个完整输出,planned,,使用地点锚点与完整风格约束
+JL-E04,随园银杏,D,REF-SY-01,2.0.1,待执行,,,记录筛选和人工修改,planned,,单独展示不参与纯模型对照

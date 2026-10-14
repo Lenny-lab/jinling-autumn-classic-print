@@ -3,7 +3,7 @@
 ## 依赖
 
 - Node.js 20 或更新版本。
-- sharp 0.35.4；在技能根目录执行 `npm install`。`private:true` 仅禁止误发 npm，不代表 GitHub 仓库必须私有。
+- sharp 0.35.5；在技能根目录执行 `npm install`。`private:true` 仅禁止误发 npm，不代表 GitHub 仓库必须私有。
 - 系统字体 Noto Serif SC、Noto Sans SC。可从 [Noto Serif SC](https://fonts.google.com/noto/specimen/Noto+Serif+SC) 与 [Noto Sans SC](https://fonts.google.com/noto/specimen/Noto+Sans+SC) 获取。字体文件不打包，按字体自身授权使用。系统缺字体会导致回退与排版差异，导出前必须安装。
 
 ## 命令

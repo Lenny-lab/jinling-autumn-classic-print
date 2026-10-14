@@ -9,7 +9,7 @@ for(const name of fs.readdirSync(path.join(root,'assets/designs')).sort()){
  if(!svg.includes('<text ')||!svg.includes('inkscape:groupmode="layer"'))errors.push('Editable layers missing '+name);
  if(/制作样张|尚待实拍核验|>风格定位</.test(svg))errors.push('Obsolete label '+name);
  const m=await sharp(path.join(root,'assets/final-designs',name+'.png')).metadata();if(m.width!==j.canvas[0]||m.height!==j.canvas[1])errors.push('Canvas mismatch '+name);
- if(name.startsWith('00_')&&(!svg.includes('>秋天的金陵城</text>')||!svg.includes('>可能会是什么样子的</text>')||svg.includes('当我问AI')))errors.push('Example cover title mismatch');
+ if(name.startsWith('00_')&&(!svg.includes('>秋天的金陵城</text>')||!svg.includes('>大概是这个样子的</text>')||svg.includes('当我问AI')))errors.push('Example cover title mismatch');
  results.push({name,width:m.width,height:m.height,images:j.images.length});
 }
 console.log(JSON.stringify({results,errors},null,2));if(errors.length)process.exitCode=1;

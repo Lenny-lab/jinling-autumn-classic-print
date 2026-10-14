@@ -29,7 +29,7 @@ skills/jinling-autumn-classic-print/
 
 |主题|PNG|SVG|
 |---|---|---|
-|封面：秋天的金陵城 / 可能会是什么样子的|[PNG](skills/jinling-autumn-classic-print/assets/final-designs/00_系列封面.png)|[SVG](skills/jinling-autumn-classic-print/assets/final-designs/00_系列封面.svg)|
+|封面：秋天的金陵城 / 大概是这个样子的|[PNG](skills/jinling-autumn-classic-print/assets/final-designs/00_系列封面.png)|[SVG](skills/jinling-autumn-classic-print/assets/final-designs/00_系列封面.svg)|
 |桂花冷秋|[PNG](skills/jinling-autumn-classic-print/assets/final-designs/01_桂花冷秋.png)|[SVG](skills/jinling-autumn-classic-print/assets/final-designs/01_桂花冷秋.svg)|
 |随园银杏|[PNG](skills/jinling-autumn-classic-print/assets/final-designs/02_随园银杏.png)|[SVG](skills/jinling-autumn-classic-print/assets/final-designs/02_随园银杏.svg)|
 |陵园路梧桐|[PNG](skills/jinling-autumn-classic-print/assets/final-designs/03_陵园路梧桐.png)|[SVG](skills/jinling-autumn-classic-print/assets/final-designs/03_陵园路梧桐.svg)|
@@ -49,3 +49,5 @@ skills/jinling-autumn-classic-print/
 全量高清示例和可重建素材使仓库体积较大；所有文件需通过大小检查。可由维护者后续选择 Git LFS 或 Release 资源分发，但本次未上传也未自动改变存储方式。
 
 本地检查与重建结果见 [验证记录](VALIDATION.md)。
+
+AI 工具和人工贡献边界见 [AI 使用说明](AI_USAGE.md)。方法验证协议与当前结果见 [evaluation](skills/jinling-autumn-classic-print/evaluation/README.md)，真实修订案例见 [case-studies](skills/jinling-autumn-classic-print/case-studies/yihe-road.md)。
